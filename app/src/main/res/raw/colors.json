@@ -1,0 +1,26 @@
+{
+  "blue": {
+    "active": "ff0000ff",
+    "inactive": "0f0000ff"
+  },
+  "green": {
+    "active": "ff00ff00",
+    "inactive": "0f00ff00"
+  },
+  "pink": {
+    "active": "ffd86b93",
+    "inactive": "0fd86b93"
+  },
+  "purple": {
+    "active": "ff7530a3",
+    "inactive": "0f7530a3"
+  },
+  "red": {
+    "active": "ffff0000",
+    "inactive": "0fff0000"
+  },
+  "white": {
+    "active": "ffffffff",
+    "inactive": "0fffffff"
+  }
+}

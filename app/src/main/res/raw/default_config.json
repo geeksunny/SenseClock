@@ -1,0 +1,11 @@
+{
+  "24hour": false,
+  "orientation": "vertical",
+  "rotations": 2,
+  "timezone": "America/Chicago",
+  "colors": {
+    "hour": "red",
+    "minute": "green",
+    "second": "blue"
+  }
+}
